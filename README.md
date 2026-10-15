@@ -1,6 +1,6 @@
 # 💪 GymMe - AI-Powered Social Fitness Platform
 
-> **[🚀 Try the Live Demo](https://felipef-04.github.io/)**
+> **[🚀 Try the Live Demo](https://felipef-04.github.io/GymMe/)**
 
 A modern social fitness app built with **Flutter** that combines community engagement with AI-powered exercise form analysis. Share your workouts, get intelligent form feedback, and connect with fitness enthusiasts worldwide.
 
